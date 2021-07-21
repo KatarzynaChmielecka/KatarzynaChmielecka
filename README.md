@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a project with css grid, js, gulp
 - 🌱 Soon I want to learn React
-- 🐴 :ocean: :cop: My love are horses, sea and criminal films/tv series
+- 🐴 :ocean: :cop: My love: horses, sea and criminal films/tv series
 
 # My stack
 - HTML
