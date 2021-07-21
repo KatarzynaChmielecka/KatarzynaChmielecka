@@ -1,16 +1,21 @@
-### Hi there 👋
+### Welcome on my github account
 
-<!--
-**KatarzynaChmielecka/KatarzynaChmielecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a project with css grid, js, gulp
+- 🌱 Soon I want to learn React
+- 🐴 :ocean: :cop: My love are horses, sea and criminal films/tv series
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My stack
+- HTML
+- CSS/SCSS
+- JAVASCRIPT
+- RWD
+- GIT
+- BEM
+- NPM
+
+
+- Also I have some experience with babel.js, webpack, parcel
+
+
+
