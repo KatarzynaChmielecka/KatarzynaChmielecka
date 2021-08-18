@@ -9,6 +9,7 @@
 - HTML
 - CSS/SCSS
 - JAVASCRIPT
+- JQUERY
 - RWD
 - GIT
 - BEM
