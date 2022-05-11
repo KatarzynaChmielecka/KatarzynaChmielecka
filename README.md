@@ -5,11 +5,13 @@
 - 🐴 :ocean: :cop: My love: horses, sea and criminal films/tv series
 
 # My stack
-- HTML
-- CSS/SCSS
 - JAVASCRIPT
 - REACT
+- HTML
+- CSS/SCSS
 - STYLED COMPONENTS
+- MUI
+- TAILWIND
 - RWD
 - GIT
 - BEM
@@ -24,14 +26,11 @@
 - MONGODB
 - SWAGGER
 - JOI
-
-## Stack- learning now
 - TYPESCRIPT
 
-## Stack- soon (april) :)
+## Stack- learning now
+
 - REDUX.JS
-- NEXT.JS
-- STORYBOOK
 
 
 
