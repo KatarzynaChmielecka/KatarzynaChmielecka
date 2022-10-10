@@ -35,7 +35,7 @@
 ![Katarzyna's github stats](https://github-readme-stats.vercel.app/api?username=katarzynachmielecka&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynachmielecka&theme=great-gatsby)](https://github.com/katarzynachmielecka/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=katarzynachmielecka&theme=great-gatsby)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![GitHub Streak](https://github--readme--streak--stats-herokuapp-com.translate.goog?user=katarzynachmielecka&theme=great-gatsby&hide_border=PRAWDA&border_radius=5)](https://git.io/streak-stats)
 
 
 
