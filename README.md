@@ -40,7 +40,6 @@
 
 ## Stack- first touch
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
-
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 - UNIT TEST(RTL)
 - JOI
@@ -49,7 +48,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynachmielecka&theme=great-gatsby)](https://github.com/katarzynachmielecka/github-readme-stats)
 ![Katarzyna's github stats](https://github-readme-stats.vercel.app/api?username=katarzynachmielecka&theme=great-gatsby)
 
-###### Github streak stats are broken. I didn't break my streak.
 [![GitHub Streak](https://github--readme--streak--stats-herokuapp-com.translate.goog?user=katarzynachmielecka&theme=great-gatsby&hide_border=PRAWDA&border_radius=5)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=katarzynachmielecka&theme=great-gatsby)](https://github.com/ryo-ma/github-profile-trophy)
 
