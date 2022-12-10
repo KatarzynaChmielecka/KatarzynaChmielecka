@@ -45,6 +45,7 @@
 - JOI
 
 
+Sometimes stats are counted only after merging pr to the main branch, so before it, the streak can be falsy.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynachmielecka&theme=great-gatsby)](https://github.com/katarzynachmielecka/github-readme-stats)
 ![Katarzyna's github stats](https://github-readme-stats.vercel.app/api?username=katarzynachmielecka&theme=great-gatsby)
 
