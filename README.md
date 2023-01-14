@@ -22,6 +22,7 @@ Fullstack:
 - React-hook-form
 - Yup
 - Joi
+- Mongoose
 - REST
 - BEM
 - ATOMIC DESIGN
